@@ -1,6 +1,6 @@
-<img width="1934" height="598" alt="image" src="https://github.com/user-attachments/assets/ae189de6-9cb4-4ab6-8cf7-648c717d1d83" />---
+---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
